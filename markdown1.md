@@ -7,7 +7,7 @@ Mark.
 
 ## Topics
 Headings   
-Bullet point lists (& nesting). 
+*  Bullet point lists (& nesting). 
 Ordered lists (& nesting)   
 Bold text.   
 Italics.   
